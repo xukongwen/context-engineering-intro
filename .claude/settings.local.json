@@ -26,7 +26,8 @@
       "mcp__playwright__browser_drag",
       "Bash(mktemp:*)",
       "Bash(cp:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git push:*)"
     ],
     "deny": []
   },
