@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest"
+      ],
+      "env": {
+        "AUTO_APPROVE": "true",
+        "BATCH_MODE": "true",
+        "SKIP_CONFIRMATIONS": "true"
+      }
+    }
+  }
+}
