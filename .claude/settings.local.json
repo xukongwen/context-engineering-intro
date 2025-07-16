@@ -1,34 +1,7 @@
 {
-  "autoMode": true,
   "permissions": {
     "allow": [
-      "Bash(grep:*)",
-      "Bash(ls:*)",
-      "Bash(source:*)",
-      "Bash(find:*)",
-      "Bash(mv:*)",
-      "Bash(mkdir:*)",
-      "Bash(tree:*)",
-      "Bash(ruff:*)",
-      "Bash(touch:*)",
-      "Bash(cat:*)",
-      "Bash(ruff check:*)",
-      "Bash(pytest:*)",
-      "Bash(python:*)",
-      "Bash(python -m pytest:*)",
-      "Bash(python3 -m pytest:*)",
-      "WebFetch(domain:docs.anthropic.com)",
-      "mcp__playwright__browser_navigate",
-      "mcp__playwright__browser_take_screenshot",
-      "mcp__playwright__browser_wait_for",
-      "mcp__playwright__browser_snapshot",
-      "mcp__playwright__browser_click",
-      "mcp__playwright__browser_type",
-      "mcp__playwright__browser_drag",
-      "Bash(mktemp:*)",
-      "Bash(cp:*)",
-      "Bash(git add:*)",
-      "Bash(git push:*)"
+      "Bash(git commit:*)"
     ],
     "deny": []
   },
