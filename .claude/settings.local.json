@@ -1,4 +1,5 @@
 {
+  "autoMode": true,
   "permissions": {
     "allow": [
       "Bash(grep:*)",
